@@ -1,0 +1,2 @@
+/Users/mac/AndroidStudioProjects/fyp_project_2/android/app/.cxx/debug/1b56565v/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mac/AndroidStudioProjects/fyp_project_2/android/app/.cxx/debug/1b56565v/arm64-v8a/CMakeFiles/rebuild_cache.dir
